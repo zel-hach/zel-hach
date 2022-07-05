@@ -2,12 +2,6 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl58gio9g004509mebg8edjf0/stats?cursusId=21&coalitionId=75" alt="zel-hach's 42 stats" /></a>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zel-hach&label=Profile%20views&color=0e75b6&style=flat" alt="zel-hach" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zel-hach" alt="zel-hach" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **minishell**
 
 - 📫 How to reach me **zineb.ell.zee@gmail.com**
