@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm EL HACHIMI zineb</h1>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl58gio9g004509mebg8edjf0/stats?cursusId=21&coalitionId=75" alt="zel-hach's 42 stats" /></a>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zel-hach&label=Profile%20views&color=0e75b6&style=flat" alt="zel-hach" /> </p>
