@@ -2,7 +2,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/zel-hach" alt="zel-hach's 42 stats" /></a>
 <h3>A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on **minishell**
+- 🔭 I’m currently working on **ft_irc**
 
 - 📫 How to reach me **zineb.ell.zee@gmail.com**
 <h3 align="left">Connect with me:</h3>
