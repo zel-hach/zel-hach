@@ -1,4 +1,4 @@
-.<h1 align="center">Hi 👋, I'm EL HACHIMI zineb</h1>
+<h1 align="center">Hi 👋, I'm EL HACHIMI zineb</h1>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/zel-hach" alt="zel-hach's 42 stats" /></a>
 <h3>A passionate frontend developer from Morocco</h3>
 
