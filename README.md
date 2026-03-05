@@ -14,6 +14,7 @@
 <p align="center">
 
 <div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
+
 <span style="background:#1f6feb; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">C</span>
 <span style="background:#e34c26; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">HTML5</span>
 <span style="background:#264de4; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">CSS3</span>
@@ -23,7 +24,6 @@
 <span style="background:#000000; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">Linux</span>
 <span style="background:#00758f; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">MySQL</span>
 <span style="background:#cc2927; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">SQL Server</span>
-
 </div>
 
 </p>
