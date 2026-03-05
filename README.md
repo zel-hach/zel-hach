@@ -13,17 +13,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 
-<div align="center" style="background-color:#0d1117; padding:15px; border-radius:10px;">
+<p align="center">
 
-<span style="background:#1f6feb; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">C</span>
-<span style="background:#e34c26; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">HTML5</span>
-<span style="background:#264de4; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">CSS3</span>
-<span style="background:#f7df1e; color:black; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">JavaScript</span>
-<span style="background:#3c873a; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">Node.js</span>
-<span style="background:#61dafb; color:black; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">React</span>
-<span style="background:#000000; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">Linux</span>
-<span style="background:#00758f; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">MySQL</span>
-<span style="background:#cc2927; color:white; padding:6px 12px; border-radius:20px; margin:4px; display:inline-block;">SQL Server</span>
-</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="45" height="45"/>
+
+</p>
 
 </p>
